@@ -63,16 +63,16 @@
       <Value Profile="(Default)">1</Value>
     </Setting>
     <Setting Name="HotkeyCollision" Type="System.Int32" Scope="User">
-      <Value Profile="(Default)">27</Value>
+      <Value Profile="(Default)">67</Value>
     </Setting>
     <Setting Name="HotkeySpeed" Type="System.Int32" Scope="User">
-      <Value Profile="(Default)">27</Value>
+      <Value Profile="(Default)">77</Value>
     </Setting>
     <Setting Name="HotkeyStore" Type="System.Int32" Scope="User">
-      <Value Profile="(Default)">27</Value>
+      <Value Profile="(Default)">75</Value>
     </Setting>
     <Setting Name="HotkeyRestore" Type="System.Int32" Scope="User">
-      <Value Profile="(Default)">27</Value>
+      <Value Profile="(Default)">76</Value>
     </Setting>
     <Setting Name="HotkeyUp" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">27</Value>
