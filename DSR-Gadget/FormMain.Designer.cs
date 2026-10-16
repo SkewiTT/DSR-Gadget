@@ -432,7 +432,7 @@
             // 
             // nudPosZ
             // 
-            this.nudPosZ.DecimalPlaces = 3;
+            this.nudPosZ.DecimalPlaces = 4;
             this.nudPosZ.Enabled = false;
             this.nudPosZ.Location = new System.Drawing.Point(57, 84);
             this.nudPosZ.Maximum = new decimal(new int[] {
@@ -480,7 +480,7 @@
             // 
             // nudPosY
             // 
-            this.nudPosY.DecimalPlaces = 3;
+            this.nudPosY.DecimalPlaces = 4;
             this.nudPosY.Enabled = false;
             this.nudPosY.Location = new System.Drawing.Point(57, 58);
             this.nudPosY.Maximum = new decimal(new int[] {
@@ -509,7 +509,7 @@
             // 
             // nudStableZ
             // 
-            this.nudStableZ.DecimalPlaces = 3;
+            this.nudStableZ.DecimalPlaces = 4;
             this.nudStableZ.Enabled = false;
             this.nudStableZ.Location = new System.Drawing.Point(138, 84);
             this.nudStableZ.Maximum = new decimal(new int[] {
@@ -529,7 +529,7 @@
             // 
             // nudPosX
             // 
-            this.nudPosX.DecimalPlaces = 3;
+            this.nudPosX.DecimalPlaces = 4;
             this.nudPosX.Enabled = false;
             this.nudPosX.Location = new System.Drawing.Point(57, 32);
             this.nudPosX.Maximum = new decimal(new int[] {
@@ -549,7 +549,7 @@
             // 
             // nudStoredAngle
             // 
-            this.nudStoredAngle.DecimalPlaces = 3;
+            this.nudStoredAngle.DecimalPlaces = 4;
             this.nudStoredAngle.Location = new System.Drawing.Point(219, 110);
             this.nudStoredAngle.Maximum = new decimal(new int[] {
             365,
@@ -568,7 +568,7 @@
             // 
             // nudStableY
             // 
-            this.nudStableY.DecimalPlaces = 3;
+            this.nudStableY.DecimalPlaces = 4;
             this.nudStableY.Enabled = false;
             this.nudStableY.Location = new System.Drawing.Point(138, 58);
             this.nudStableY.Maximum = new decimal(new int[] {
@@ -588,7 +588,7 @@
             // 
             // nudStableAngle
             // 
-            this.nudStableAngle.DecimalPlaces = 3;
+            this.nudStableAngle.DecimalPlaces = 4;
             this.nudStableAngle.Enabled = false;
             this.nudStableAngle.Location = new System.Drawing.Point(138, 110);
             this.nudStableAngle.Maximum = new decimal(new int[] {
@@ -608,7 +608,7 @@
             // 
             // nudStableX
             // 
-            this.nudStableX.DecimalPlaces = 3;
+            this.nudStableX.DecimalPlaces = 4;
             this.nudStableX.Enabled = false;
             this.nudStableX.Location = new System.Drawing.Point(138, 32);
             this.nudStableX.Maximum = new decimal(new int[] {
@@ -628,7 +628,7 @@
             // 
             // nudPosAngle
             // 
-            this.nudPosAngle.DecimalPlaces = 3;
+            this.nudPosAngle.DecimalPlaces = 4;
             this.nudPosAngle.Enabled = false;
             this.nudPosAngle.Location = new System.Drawing.Point(57, 110);
             this.nudPosAngle.Maximum = new decimal(new int[] {
@@ -648,7 +648,7 @@
             // 
             // nudStoredX
             // 
-            this.nudStoredX.DecimalPlaces = 3;
+            this.nudStoredX.DecimalPlaces = 4;
             this.nudStoredX.Location = new System.Drawing.Point(219, 32);
             this.nudStoredX.Maximum = new decimal(new int[] {
             10000,
@@ -676,7 +676,7 @@
             // 
             // nudStoredY
             // 
-            this.nudStoredY.DecimalPlaces = 3;
+            this.nudStoredY.DecimalPlaces = 4;
             this.nudStoredY.Location = new System.Drawing.Point(219, 58);
             this.nudStoredY.Maximum = new decimal(new int[] {
             10000,
@@ -704,7 +704,7 @@
             // 
             // nudStoredZ
             // 
-            this.nudStoredZ.DecimalPlaces = 3;
+            this.nudStoredZ.DecimalPlaces = 4;
             this.nudStoredZ.Location = new System.Drawing.Point(219, 84);
             this.nudStoredZ.Maximum = new decimal(new int[] {
             10000,
