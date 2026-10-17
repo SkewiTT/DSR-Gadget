@@ -73,7 +73,7 @@ namespace DSR_Gadget.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("27")]
+        [global::System.Configuration.DefaultSettingValueAttribute("71")]
         public int HotkeyGravity {
             get {
                 return ((int)(this["HotkeyGravity"]));
