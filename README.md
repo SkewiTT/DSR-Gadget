@@ -1,6 +1,6 @@
+# DSR Gadget (Fork) - Original by Pav & TKGP
 
-# Fork of DSR Gadget 1.6 - By Pav & TKGP
-A multi-purpose testing tool for Dark Souls: Remastered.  
+A fork of [JKAnderson/DSR-Gadget](https://github.com/JKAnderson/DSR-Gadget), a multi-purpose testing tool for Dark Souls: Remastered.  
 Compatible with DSR App ver. 1.01, 1.01.1, 1.01.2, 1.03, and possibly future versions.  
 Requires [.NET 4.7.2](https://www.microsoft.com/net/download/thank-you/net472) - Windows 10 users should already have this.
 
