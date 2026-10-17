@@ -5,7 +5,7 @@ Compatible with DSR App ver. 1.01, 1.01.1, 1.01.2, 1.03, and possibly future ver
 Requires [.NET 4.7.2](https://www.microsoft.com/net/download/thank-you/net472) - Windows 10 users should already have this.
 
 # Fork Differences
-- The facing angle (current, stored, and stable) now displays with 3 decimal places instead of being rounded to a whole degree. This makes storing and restoring positions more precise for setups.
+- The facing angle (current, stored, and stable) now displays with 4 decimal places instead of being rounded to a whole degree. This makes storing and restoring positions more precise for setups.
 
 All credit for the original tool goes to Pav & TKGP. This fork is licensed under the same GPL-3.0 license as the original.
 
@@ -22,6 +22,9 @@ All credit for the original tool goes to Pav & TKGP. This fork is licensed under
 [Semver](https://github.com/maxhauser/semver) by Max Hauser
 
 # Changelog
+### 1.6.1
+* Changes the facing angle (current, stored, and stable) to display with 4 decimal places
+
 ### 1.6
 * Fixed cheats and other things staying on if you unchecked them while unloaded
 * Fixed no gravity, no collision, and filters not reapplying properly after reloads
